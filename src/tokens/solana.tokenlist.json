@@ -23626,6 +23626,20 @@
     },
     {
       "chainId": 101,
+      "address": "9sQtcMxC7zwoVm9vsbZD6XkbZMik5882sA22oc6kb6bU",
+      "symbol": "GAP",
+      "name": "Solana Gap",
+      "decimals": 8,
+      "logoURI": "https://user-images.githubusercontent.com/77533840/141511509-e91a2933-4dc3-4ae3-985e-72077651a462.png",
+      "tags": [],
+      "extensions": {
+        "website": "https://solanagap.com/",
+        "coingeckoId": "solanagap",
+        "twitter": "https://twitter.com/SolanaGAP"
+        "telegram": "t.me/SolanaGAP"
+      }
+    {
+      "chainId": 101,
       "address": "4Hx6Bj56eGyw8EJrrheM6LBQAvVYRikYCWsALeTrwyRU",
       "symbol": "weDYDX",
       "name": "Wrapped dYdX (Wormhole)",
